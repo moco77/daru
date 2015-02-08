@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 test
 
 ghkjk
@@ -7,3 +8,6 @@ push no
 momo
 
 <!--naze--!>
+=======
+test
+>>>>>>> origin/master
